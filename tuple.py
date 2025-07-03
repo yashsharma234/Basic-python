@@ -1,0 +1,8 @@
+a=(1,23,35,45,51,86,75,8,24,23,35)
+print(len(a))
+print(min(a))
+print(max(a))
+print(a.count(23))
+print(a)
+print(23 in a)
+print(87 in a)
